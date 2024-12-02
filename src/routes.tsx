@@ -3,7 +3,7 @@ import {
     AppealPage,
     CategoriesCreatePage,
     CategoriesDetailPage, CategoriesEditPage,
-    CategoriesPage,
+    CategoriesPage, HomePage,
     InfoBlockCreatePage,
     InfoBlockDetailPage, InfoBlockEditPage,
     InfoBlockPage,
@@ -121,5 +121,11 @@ export const routes: RouteData[] = [
         path: "/admin/profile",
         element: <ProfilePage />,
         isPublic: false,
+    },
+
+    {
+        path: "/",
+        element: <HomePage />,
+        isPublic: true,
     },
 ]

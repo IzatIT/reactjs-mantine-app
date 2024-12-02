@@ -1,5 +1,4 @@
 export * from "./api";
-export * from "./contacts";
 export * from "./localization";
 export * from "./map";
 export * from './style'
