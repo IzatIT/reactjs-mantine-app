@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Vent Fix",
+  "name": "Воспользуйтесь надежной доставкой, подкрепленной отраслевым опытом, обновлениями в режиме реального времени для полной прозрачности и стремлением к бесперебойной доставке по всему миру, что позволит вам быть в курсе событий и уверенными на каждом этапе.",
   "icons": [
     {
       "src": "favicon.ico",
@@ -8,12 +8,12 @@
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "logo.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "logo.png",
       "type": "image/png",
       "sizes": "512x512"
     }
